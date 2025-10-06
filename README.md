@@ -1,19 +1,11 @@
-<!-- HEADER (dalga) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:FF9ECF,50:B185DB,100:79C8FF)
 
-<!-- KAYAN YILDIZ ANİMASYONU -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/esmamanti/esmamanti/main/assets/shooting-stars.gif#gh-light-mode-only" width="680">
-  <img src="https://raw.githubusercontent.com/esmamanti/esmamanti/main/assets/shooting-stars-dark.gif#gh-dark-mode-only" width="680">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=esmamanti&bg_color=00000000&color=C7CDEB&line=FF7AB6&point=FFFFFF&area=true&area_color=B185DB&hide_border=true"
+    alt="contribution activity graph"
+    width="820"
+  />
 </p>
 
-<!-- KÜÇÜK YAZI (isteğe bağlı) -->
-<p align="center"><b>🌸 Hello World! 🌸</b></p>
-
-<!-- IŞILTILI KATKI GRAFİĞİ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/esmamanti/esmamanti/output/profile-3d-contrib/profile-night-view.svg" width="720"/>
-</p>
-
-<!-- FOOTER (dalga) -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF9ECF,50:B185DB,100:79C8FF)
