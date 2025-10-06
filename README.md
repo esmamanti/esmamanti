@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- HEADER (dalga) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header)
 
-<!--
-**esmamanti/esmamanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- KAYAN YILDIZ ANİMASYONU -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/esmamanti/esmamanti/main/assets/shooting-stars.gif#gh-light-mode-only" width="680">
+  <img src="https://raw.githubusercontent.com/esmamanti/esmamanti/main/assets/shooting-stars-dark.gif#gh-dark-mode-only" width="680">
+</p>
 
-Here are some ideas to get you started:
+<!-- KÜÇÜK YAZI (isteğe bağlı) -->
+<p align="center"><b>🌸 Hello World! 🌸</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- IŞILTILI KATKI GRAFİĞİ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/esmamanti/esmamanti/output/profile-3d-contrib/profile-night-view.svg" width="720"/>
+</p>
+
+<!-- FOOTER (dalga) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
