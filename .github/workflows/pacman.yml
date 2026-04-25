@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
@@ -15,9 +18,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: esmamanti
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?theme=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push output
         uses: crazy-max/ghaction-github-pages@v3
